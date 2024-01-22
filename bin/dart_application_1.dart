@@ -3,4 +3,5 @@ import 'package:dart_application_1/dart_application_1.dart'
 
 void main(List<String> arguments) {
   print('Hallo semua: ${dart_application_1.calculate()}!');
+  print('Hello world');
 }
