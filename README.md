@@ -1,1 +1,1 @@
-**Ini adalah repositori latihan
+Ini adalah repositori latihan
