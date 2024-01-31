@@ -1,11 +1,11 @@
 void main(List<String> args) {
-  var nilai = 60;
-  var absen = 50;
+  var nilai = 75;
+  var absen = 90;
 
   if (nilai >= 60 && absen >= 60) {
-    print('Anda Lulus');
+    print('Kamu Lulus');
   } else {
-    print('Anda Tidak Lulus');
+    print('kamu Tidak Lulus');
   }
 
   if (nilai >= 80 && absen >= 80) {
