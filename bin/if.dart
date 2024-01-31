@@ -1,4 +1,5 @@
 void main(List<String> args) {
+<<<<<<< HEAD
   var nilai = 50;
   var absen = 50;
 
@@ -6,6 +7,15 @@ void main(List<String> args) {
     print('Anda Dinyatakan Lulus');
   } else {
     print('Mohon Maaf, Anda Tidak Lulus');
+=======
+  var nilai = 75;
+  var absen = 90;
+
+  if (nilai >= 60 && absen >= 60) {
+    print('Kamu Lulus');
+  } else {
+    print('kamu Tidak Lulus');
+>>>>>>> test
   }
 
   if (nilai >= 80 && absen >= 80) {
